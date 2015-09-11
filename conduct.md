@@ -3,7 +3,7 @@
 All participants at the Algorave are required to agree with the following code of conduct. "Participants" extends to all attendees, performers, organisers and volunteers. Organisers will enforce this code throughout the event. We are expecting cooperation from all participants to help ensuring a safe environment for everybody.
 
 ## What Is This?
-The Algorave should be and inclusive safe event for performers, organisers and attendees. For this reason, we have established a clear code of conduct that outlines precisely how we define expectations from all participants. This code also applies to any related social events around the Algorave, and extends to online communities and discourse.
+The Algorave should be an inclusive safe event for performers, organisers and attendees. For this reason, we have established a clear code of conduct that outlines precisely how we define expectations of all participants. This code also applies to any related social events around the Algorave, and extends to online communities and discourse.
 For more detailed information on why a code of conduct is neccessary, see http://www.ashedryden.com/blog/codes-of-conduct-101-faq
 
 ## The Short Version
